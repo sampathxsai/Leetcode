@@ -3,17 +3,13 @@ int singleNonDuplicate(int* arr, int n) {
 
     while (l < h) {
         int m = l + (h - l) / 2;
-
-        // make m even
         if (m % 2 == 1)
             m--;
 
         if (arr[m] == arr[m + 1]) {
-            // pair is correct, single element is on right
             l = m + 2;
         }
         else {
-            // pair is broken, single is at m or on left
             h = m;
         }
     }
