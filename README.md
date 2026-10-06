@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sampathxsai/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sampathxsai/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Linked List
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sampathxsai/Leetcode/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
