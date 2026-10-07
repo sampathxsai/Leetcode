@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sampathxsai/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Linked List
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
