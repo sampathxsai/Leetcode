@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sampathxsai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sampathxsai/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
