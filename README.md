@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2706-buy-two-chocolates](https://github.com/sampathxsai/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/sampathxsai/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/sampathxsai/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2864-maximum-odd-binary-number](https://github.com/sampathxsai/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/sampathxsai/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2864-maximum-odd-binary-number](https://github.com/sampathxsai/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
