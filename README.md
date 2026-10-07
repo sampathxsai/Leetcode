@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sampathxsai/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sampathxsai/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/sampathxsai/Leetcode/tree/master/0867-transpose-matrix) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sampathxsai/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sampathxsai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sampathxsai/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sampathxsai/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/sampathxsai/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
