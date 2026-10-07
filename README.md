@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sampathxsai/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sampathxsai/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sampathxsai/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sampathxsai/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sampathxsai/Leetcode/tree/master/0231-power-of-two) |
 | [1688-count-of-matches-in-tournament](https://github.com/sampathxsai/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
