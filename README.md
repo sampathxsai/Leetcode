@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sampathxsai/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sampathxsai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sampathxsai/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sampathxsai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Math
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sampathxsai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
