@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sampathxsai/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2706-buy-two-chocolates](https://github.com/sampathxsai/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2706-buy-two-chocolates](https://github.com/sampathxsai/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2706-buy-two-chocolates](https://github.com/sampathxsai/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
