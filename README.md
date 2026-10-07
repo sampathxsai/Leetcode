@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sampathxsai/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/sampathxsai/Leetcode/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sampathxsai/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sampathxsai/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sampathxsai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sampathxsai/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sampathxsai/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sampathxsai/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sampathxsai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
