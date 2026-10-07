@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sampathxsai/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sampathxsai/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sampathxsai/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sampathxsai/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sampathxsai/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sampathxsai/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/sampathxsai/Leetcode/tree/master/1903-largest-odd-number-in-string) |
