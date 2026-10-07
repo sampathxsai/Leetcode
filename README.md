@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sampathxsai/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2706-buy-two-chocolates](https://github.com/sampathxsai/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/sampathxsai/Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sampathxsai/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sampathxsai/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sampathxsai/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sampathxsai/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sampathxsai/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sampathxsai/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
