@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sampathxsai/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Math
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sampathxsai/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sampathxsai/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
